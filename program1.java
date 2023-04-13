@@ -4,10 +4,11 @@ public class Main{
             int b =20;
             if(a==b){
                   System.out.println("it is a square");
+            }
             else{
                   System.out.println("it is a rectangle");
             }
             
-          }
+          
       }
 }
